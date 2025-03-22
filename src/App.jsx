@@ -6,6 +6,8 @@ function App() {
     <>
       <Player />
       <TimerChallenge title={"Easy"} targetTime={1}/>
+      <TimerChallenge title={"Hard"} targetTime={15}/>
+
     </>
   );
 }
